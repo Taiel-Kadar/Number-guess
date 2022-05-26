@@ -1,2 +1,2 @@
 # Number-guess
-Un juego de adivinanza con numeros
+Un juego de adivinanza con numeros creados con Javascript y skeleton
